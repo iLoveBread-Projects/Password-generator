@@ -136,6 +136,7 @@ namespace PasswordGenerator
             this.Controls.Add(this.chbxSpecial);
             this.Controls.Add(this.chbxNumbers);
             this.Controls.Add(this.chbxUpper);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmPassGen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
