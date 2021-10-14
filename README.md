@@ -132,7 +132,7 @@ private void btnCreate_Click_1(object sender, EventArgs e)
 
 <details><summary>The event when the Copy Password button is clicked</summary>
 
-```chsarp
+```csharp
 private void btnCopy_Click(object sender, EventArgs e)
 {
     try
