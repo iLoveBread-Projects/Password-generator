@@ -3,6 +3,11 @@
 ### *What is it?*
 > It is a open source generator which generates passwords to your needs. **The code is writetn in C#**.
 
+### *How to install*
+> If you want to install the full project, then download the full repository and open the [PasswordGenerator](https://github.com/iLoveBread-Code/Password-generator/blob/main/PasswordGenerator.sln) file in Visual Studio Community.
+> 
+> If you want to download the application only, [click here](https://github.com/iLoveBread-Code/Password-generator/raw/main/PasswordGenerator/bin/Release/PasswordGenerator.exe)
+
 ### *How to use the generator*
 1. * Check the checkboxes that are needed.
    * Choose a password length (custom password length is also available
