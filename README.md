@@ -35,7 +35,7 @@ private void chbxUpper_CheckedChanged(object sender, EventArgs e)
 
 </details>
 
-<details><summary>Numberss checkbox checked or not</summary>
+<details><summary>Numbers checkbox checked or not</summary>
 
 ```csharp
 private void chbxNumbers_CheckedChanged(object sender, EventArgs e)
