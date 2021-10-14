@@ -18,6 +18,7 @@ namespace PasswordGenerator
         public frmPassGen()
         {
             InitializeComponent();
+            this.MaximizeBox = false;
         }
 
         private static bool addUpperCase;
