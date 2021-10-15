@@ -9,7 +9,7 @@
 > If you want to download the application only, [click here](https://github.com/iLoveBread-Code/Password-generator/raw/main/PasswordGenerator/bin/Release/PasswordGenerator.exe)
 
 ### *How to use the generator*
-1. * Check the checkboxes that are needed.
+1. * Check the checkboxes that are needed for your password.
    * Choose a password length (custom password length is also available
 2. Press *Create* to generate the password. The password will appear in the textbox below the *Create* button.
 3. To copy the password, simply press *Copy Password* and it will be copied to your clipboard.
